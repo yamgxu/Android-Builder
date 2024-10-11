@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Mi6X",
-      "repo": "https://github.com/LKDenchin/scarlet_sdm660",
-      "branch": "9.15-mmfix",
+      "repo": "https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660",
+      "branch": "a13/dynamic",
       "device": "wayne",
       "defconfig": "vendor/wayne-perf_defconfig"
     },
